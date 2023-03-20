@@ -46,9 +46,7 @@
     <Compile Include="Character.cs" />
     <Compile Include="NoRotationComparer.cs" />
     <Compile Include="Planet.cs" />
-    <Compile Include="..\..\..\..\OneDrive - AV Center A S\Skrivebord\Skole Dropbox\Dropbox\H3\ORM\Starwars\Program.cs">
-      <Link>Program.cs</Link>
-    </Compile>
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
